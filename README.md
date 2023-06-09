@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> Welcome to the WIMM API! A comprehensive API package for the "Where is My Money" (WIMM) app, enabling developers to easily integrate financial tracking and management functionalities into their applications. The wimm-api package provides a range of features, including expense tracking, budget management, transaction categorization, and insightful analytics. Empower your users to gain better control over their finances with the WIMM API package.
+> Introducing the WIMM, the ultimate financial tracking and management solution! WIMM, short for "Where is My Money," is a robust tool designed to serve as your central hub for complete visibility into your finances. With WIMM, you can effortlessly integrate multiple accounts, including your bank, pension, and education fund, consolidating all your financial information in one convenient location. Say goodbye to the hassle of repeatedly logging in and entering your details across various applications. WIMM offers comprehensive reports, providing you with a comprehensive overview of where your money is allocated. Empower yourself with WIMM and take full control of your financial journey.
 
 ## Installation
 
