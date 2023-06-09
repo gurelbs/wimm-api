@@ -3,7 +3,7 @@
 <p>
   <a href="https://www.npmjs.com/package/wimm" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/hets.svg">
-    <img src="https://img.shields.io/github/gurelbs/WIMM?label=gurelbs">
+    <img src="https://img.shields.io/badge/wimm-v0.0.4-brightgreen">
   </a>
   <a href="#" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
